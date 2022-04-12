@@ -12,7 +12,7 @@
   "name": "Pablo",
   "age": 25,
   "skills" : ["React", "Javascript", "Python", "Node.js"],
-  "interests" : ["UX/UI", "Music", "Photography", "Minimalism"]
+  "interests" : ["UX/UI", "Gaming", "Music", "Photography", "Minimalism"]
 }
 ```
 
