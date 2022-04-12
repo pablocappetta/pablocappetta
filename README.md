@@ -5,6 +5,17 @@
 <h1>Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h1>
 
+<!-- Cool JSON -->
+
+```
+{
+  "name": "Pablo",
+  "age": 25,
+  "skills" : ["React", "Javascript", "Python", "Node.js"],
+  "interests" : ["UX/UI", "Music", "Photography", "Minimalism"]
+}
+```
+
 <br><b>Software Engineer</b> in <a href= "https://www.jpmorgan.com/AR/es/about-us"><b>JPMorgan Chase & Co</b></a>.</br>
 <br><b>Information Systems of Organizations</b> in <a href="https://www.uade.edu.ar/"><b>UADE</b></a>.</br>
 <br><b>Full Stack Web Development</b> in <a href="https://www.digitalhouse.com/"><b>Digital House</b></a>.</br>
@@ -16,7 +27,7 @@
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
-<!-- Links to your social media accounts -->
+<!-- Links to social media accounts -->
 
 [1]: https://twitter.com/pablocappetta
 [2]: https://www.linkedin.com/in/pablocappetta/
