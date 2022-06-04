@@ -2,7 +2,7 @@
 
 <img src="https://i.imgur.com/nNxcpJS.png" width="150" height="150"></img>
 
-<h1>Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="1000px">
+<h1>Hello there!
 </h1>
 
 <!-- Cool JSON -->
