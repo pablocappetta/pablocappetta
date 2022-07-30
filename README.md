@@ -2,8 +2,7 @@
 
 <img src="https://i.imgur.com/nNxcpJS.png" width="150" height="150"></img>
 
-<h1>Hello there!
-</h1>
+<h1>Hello there! <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/waving-hand_light-skin-tone_1f44b-1f3fb_1f3fb.png" width="48" height="48"/></h1>
 
 <!-- Cool JSON -->
 
@@ -20,7 +19,7 @@
 <br><b>Information Systems of Organizations</b> in <a href="https://www.uade.edu.ar/"><b>UADE</b></a>.</br>
 <br><b>Full Stack Web Development</b> in <a href="https://www.digitalhouse.com/"><b>Digital House</b></a>.</br>
 
-<br><br><br>Connect with me! [![Twitter][1.2]][1] [![LinkedIn][2.2]][2]</br></br></br></div>
+<br><br><br>Connect with me! [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png" width="16"/>][1] [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" width="16" height="16"/>][2]</br></br></br></div>
 
 <!-- Icons -->
 
