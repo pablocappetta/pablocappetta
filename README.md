@@ -4,13 +4,13 @@
 
 <h1>Hello there! <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/waving-hand_light-skin-tone_1f44b-1f3fb_1f3fb.png" width="48" height="48"/></h1>
 
-<!-- Cool JSON -->
+<!-- Pablo's object -->
 
 ```
 {
   "name": "Pablo",
   "age": 25,
-  "skills" : ["React", "Javascript", "Python", "Node.js"],
+  "skills" : ["React", "JavaScript", "Python", "Node.js"],
   "interests" : ["UX/UI", "Gaming", "Music", "Photography", "Minimalism"]
 }
 ```
@@ -23,8 +23,8 @@
 
 <!-- Icons -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[1.2]: http://i.imgur.com/wWzX9uB.png "twitter icon without padding"
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png "LinkedIn icon without padding"
 
 <!-- Links to social media accounts -->
 
