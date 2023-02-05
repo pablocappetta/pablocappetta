@@ -2,7 +2,7 @@
 
 <img src="https://i.imgur.com/nNxcpJS.png" width="150" height="150"></img>
 
-<h1>Hello there! <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/waving-hand_light-skin-tone_1f44b-1f3fb_1f3fb.png" width="48" height="48"/></h1>
+<h1>Hello there!</h1>
 
 <!-- Pablo's object -->
 
