@@ -6,6 +6,7 @@
 
 <!-- Pablo's object -->
 
+<center>
 ```
 {
   "name": "Pablo",
@@ -14,6 +15,7 @@
   "interests" : ["UX/UI", "Gaming", "Music", "Photography", "Minimalism"]
 }
 ```
+</center>
 
 <br><b>Software Engineer II</b> in <a href= "https://www.jpmorgan.com/AR/es/about-us"><b>JPMorgan Chase & Co</b></a>.</br>
 <br><b>Information Systems of Organizations</b> in <a href="https://www.uade.edu.ar/"><b>UADE</b></a>.</br>
