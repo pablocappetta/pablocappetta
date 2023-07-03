@@ -1,7 +1,7 @@
 <div align="center">
 
 <picture>
-<img src="https://i.imgur.com/nNxcpJS.png" width="150" height="150"></img>
+  <img src="https://i.imgur.com/nNxcpJS.png" width="150" height="150"></img>
 </picture>
 
 <h1>Hello there!</h1>
@@ -9,7 +9,7 @@
 <!-- Pablo's object -->
 
 <picture>
-<img src="https://i.imgur.com/mtBSFvF.png" width="640" href=""/>
+  <img src="https://i.imgur.com/g1P24IY.png" width="640" href=""/>
 </picture>
 
 <br><b>Software Engineer II</b> in <a href= "https://www.jpmorgan.com/AR/es/about-us"><b>JPMorgan Chase & Co</b></a>.</br>
