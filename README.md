@@ -9,10 +9,10 @@
 
 ```
 {
-  "name": "Pablo",
-  "age": 25,
-  "skills" : ["React", "JavaScript", "Python", "Node.js"],
-  "interests" : ["UX/UI", "Gaming", "Music", "Photography", "Minimalism"]
+"name": "Pablo",
+"age": 25,
+"skills" : ["React", "JavaScript", "Python", "Node.js"],
+"interests" : ["UX/UI", "Gaming", "Music", "Photography", "Minimalism"]
 }
 ```
 
