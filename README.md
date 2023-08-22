@@ -13,8 +13,6 @@
 </picture>
 
 <br><b>Software Engineer II</b> in <a href= "https://www.jpmorgan.com/AR/es/about-us"><b>JPMorgan Chase & Co</b></a>.</br>
-<br><b>Information Systems of Organizations</b> in <a href="https://www.uade.edu.ar/"><b>UADE</b></a>.</br>
-<br><b>Full Stack Web Development</b> in <a href="https://www.digitalhouse.com/"><b>Digital House</b></a>.</br>
 
 <br><br><br>Connect with me @ [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/1024px-Logo_of_Twitter.svg.png" width="16"/>][1] [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" width="16" height="16"/>][2]</br></br></br></div>
 
