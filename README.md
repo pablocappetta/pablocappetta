@@ -9,7 +9,7 @@
 <!-- Pablo's object -->
 
 <picture>
-  <img src="https://i.imgur.com/zj9UKU5.png" width="720" href=""/>
+  <img src="https://i.imgur.com/wZSWdql.png" width="720" href=""/>
 </picture>
 
 <br><b>Software Engineer II</b> in <a href= "https://www.jpmorgan.com/AR/es/about-us"><b>JPMorgan Chase & Co</b></a>.</br>
@@ -25,3 +25,5 @@
 
 [1]: https://twitter.com/pablocappetta
 [2]: https://www.linkedin.com/in/pablocappetta/
+
+
